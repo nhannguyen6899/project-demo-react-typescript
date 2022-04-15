@@ -1,0 +1,40 @@
+.div-taskname label {
+    width: 15%;
+}
+
+.div-taskname input {
+    width: 85%;
+    border: 2px solid rgb(231, 227, 227);
+    border-radius: 5px 5px 5px 5px;
+}
+
+.div-status {
+    margin-top: 20px;
+}
+
+.div-status label {
+    width: 15%;
+}
+
+.div-status select {
+    width: 60%;
+    height: 33px;
+    border-bottom: 1px solid rgb(231, 227, 227);
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.div-btn-add {
+    margin-top: 20px;
+    margin-bottom: 75px;
+}
+
+.div-btn-add button {
+    width: 68px;
+    height: 35px;
+    color: aliceblue;
+    float: right;
+    background-color: rgb(13, 88, 228);
+    border-radius: 5px 5px 5px 5px;
+}
